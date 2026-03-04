@@ -47,7 +47,6 @@ adx-dra.op.hicloud.com, PUB_HW_1003, RESELLER
 adx-drru.op.hicloud.com, PUB_HW_1003, RESELLER
 bidmachine.io, 114, RESELLER
 bidmachine.io, 67, RESELLER
-liftoff.io, 7f6945815e6, RESELLER
 hyperad.tech, 20, RESELLER
 adelement.com, 101, RESELLER
 advertising.com, 28886, RESELLER
@@ -830,3 +829,8 @@ adform.com, 3283, RESELLER
 xandr.com, 15278, RESELLER, f5ab79cb980f11d1
 triplelift.com, 6457, RESELLER, 6c33edb13117fd86
 sharethrough.com, zMvLLpo1, RESELLER, d53b998a7bd4ecd2
+triplelift.com, 14734, RESELLER, 6c33edb13117fd86
+triplelift.com, 14734-EB, RESELLER
+triplelift.com, 14742, RESELLER, 6c33edb13117fd86
+triplelift.com, 14740, RESELLER, 6c33edb13117fd86
+triplelift.com, 14751, RESELLER, 6c33edb13117fd86
